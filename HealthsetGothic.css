@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'HealthsetGothic';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetGothic-Light.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetGothic-Light.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetGothic-Light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetGothic-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetGothic-Light.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'HealthsetGothic';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetGothic-Bold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetGothic-Bold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetGothic-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetGothic-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetGothic-Bold.ttf') format("truetype");
+    font-display: swap;
+} 

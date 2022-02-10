@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'HealthsetBamboo';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetBamboo.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetBamboo.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetBamboo.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetBamboo.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Healthset/HealthsetBamboo.ttf') format("truetype");
+    font-display: swap;
+} 
